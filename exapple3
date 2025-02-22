@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+
+   
+
+    html{
+        background-color: rgb(0, 0, 0);
+    }
+   
+    .contenitore1{
+        background-color: white;
+        height:auto;
+        width: 8800px;
+        display: flex;
+        justify-content: space-between;
+        border: solid, white, 5px;
+        
+        
+    }
+
+    .contenitore2{border: solid,2px;
+        height:2000px;
+        width: 3020px;
+       display: flex;
+       justify-content: center;
+       background-image: url(https://www.apple.com/v/ipad-pro/ar/images/overview/hero/hero_endframe__sg50vzdd6sqm_large_2x.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       justify-content: center;
+       
+       
+      
+    }
+
+
+    .contenitore3{border: solid,2px;
+        height: 2000px;
+        width: 3020px;
+        display: flex;
+       justify-content: center;
+       align-items: end;
+
+    }
+    
+    .scritte{ 
+
+        border: solid, 2px;
+        width: auto;
+        height: 300px;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+       
+        
+
+
+    }
+
+    .ipadpro{
+        border: solid,2px;
+        width:auto;
+        height: 200px;
+        display:grid;
+        justify-content: center;
+        align-items: center;
+       
+     
+
+}
+
+
+   
+
+    .scritte1{ 
+
+     border: solid, 2px;
+     width: 500px;
+     height: 100px;
+    
+    
+
+
+
+   }
+
+  .p1{
+    margin: 0%;
+   
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 114px;
+    margin-left: 30px;
+
+
+
+  }
+  .p2{
+    margin: 0%;
+    
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+align-items: center;
+font-size: 66px;
+
+
+  }
+
+
+.bottoni{
+    border: solid, 1px;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.bu{
+    width: 590px;
+    height: auto;
+  
+    display: flex;
+    border: solid, 2px;
+    border-color: rgb(0, 0, 0);
+    padding-left: 60px;
+}
+
+
+
+  .button1{
+    width: 330px;
+    height: 100px;
+    background-color: #007aff ;
+    border: none;
+    border-radius: 99999px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    
+    
+    
+  }
+
+  .button2{
+    width: 187px;
+    height: 100px;
+    border-color: #007aff;
+    background-color: black;
+    border-radius: 99999px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#007aff ;
+    font-size: 34px;
+    margin-left: 60px;
+    
+  }
+
+
+
+
+
+
+.p3{
+    margin: 0%;
+    font-size: 38px;
+   
+    height: auto;
+    width: auto;
+    
+   
+}
+
+.hhh{
+    width: auto;
+    height: auto;
+    font-size: 40px;
+    display: grid;
+    border: solid, 2px;
+    border-color: black;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.ciao{
+    width: auto;
+    height: 100px;
+    
+    margin-top: 1106px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, blue, purple, red);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  margin-left: 30px;
+}
+
+
+.contenitore3{
+
+    background-image: url(https://www.apple.com/v/home/cb/images/promos/airpods-pro-2/promo_airpods_pro_2_avail__vkitqi3okwie_large.jpg);
+
+
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+
+
+
+}
+
+.uno{
+
+    font-size: 16px;
+}
+
+
+
+.contenitoreenorme{
+    
+    height:3000px;
+    width: auto;
+    align-items: center;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    
+
+}
+
+
+
+
+
+
+
+.scritte2{ 
+
+border: solid, 2px;
+width: auto;
+height: 300px;
+display: grid;
+justify-content: center;
+align-items: center;
+
+
+
+
+}
+
+.ipadpro2{
+border: solid,2px;
+width:auto;
+height: 200px;
+display:grid;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+
+
+
+.scritte12{ 
+
+border: solid, 2px;
+width: 500px;
+height: 100px;
+
+
+
+
+
+}
+
+.p12{
+margin: 0%;
+
+height: auto;
+width: auto;
+display: flex;
+justify-content: center;
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 114px;
+margin-left: 30px;
+
+
+
+}
+.p22{
+margin: 0%;
+
+height: auto;
+width: auto;
+display: flex;
+justify-content: center;
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+align-items: center;
+font-size: 66px;
+
+
+}
+
+
+.bottoni2{
+border: solid, 1px;
+height: auto;
+width: auto;
+display: flex;
+justify-content: center;
+margin-top: 20px;
+align-items: center;
+justify-content: space-around;
+
+}
+
+.bu2{
+width: 590px;
+height: auto;
+
+display: flex;
+border: solid, 2px;
+border-color: rgb(0, 0, 0);
+padding-left: 60px;
+}
+
+
+
+.button12{
+width: 330px;
+height: 100px;
+background-color: #007aff ;
+border: none;
+border-radius: 99999px;
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(255, 255, 255);
+
+
+}
+
+.button12:hover {
+            background-color: #0056b3;
+            transform: scale(1.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+   }
+
+.button1:hover {
+            background-color: #0056b3;
+            transform: scale(1.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+   }
+
+
+   .button22:hover {
+            background-color: #000000;
+            transform: scale(1.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+   }
+
+
+   .button2:hover {
+            background-color: #000000;
+            transform: scale(1.1);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+
+   }
+
+
+
+
+
+
+
+.button22{
+width: 187px;
+height: 100px;
+border-color: #007aff;
+background-color: black;
+border-radius: 99999px;
+cursor: pointer;
+display: flex;
+justify-content: center;
+align-items: center;
+color:#007aff ;
+font-size: 34px;
+margin-left: 60px;
+
+}
+
+
+
+
+
+
+.p32{
+margin: 0%;
+font-size: 38px;
+
+height: auto;
+width: auto;
+
+
+}
+
+.hhh2{
+width: auto;
+height: auto;
+font-size: 40px;
+display: grid;
+border: solid, 2px;
+border-color: black;
+justify-content: center;
+align-content: center;
+align-items: center;
+margin-top: -700px;
+margin-left: -100px;
+}
+
+
+
+
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+<div class="contenitoreenorme">
+
+
+
+
+    <div class="contenitore1">
+        <div class="contenitore2">
+           
+            <div class="scritte">
+                <div class="ipadpro">
+                    <div class="hhh">
+                    <p class="p1"> <strong>iPad Pro</strong></p>
+                    <p class="p2">Unbelievably thin. incredibly powerful</p>
+                    <div class="bottoni">
+                        <div class="bu">
+                    <button class="button1"> <p class="p3">Learn more</p> </button>
+                    <button class="button2">Buy</button> 
+
+                    
+
+                    
+                    </div>
+                    </div>
+                    
+                       
+
+                    </div>
+                    <p class="ciao">Hello,Apple Intelligence.</p> 
+
+                    </div>
+                    
+                </div> 
+                
+        
+                
+            </div>
+            <div class="contenitore3">
+              
+
+                <div class="scritte2">
+                    <div class="ipadpro2">
+                        <div class="hhh2">
+                        <p class="p12"> <strong>AirPods Pro 2</strong></p>
+                        <p class="p22">Now whith a Hearing Aid feature.<sup class="uno">1</sup></p>
+                        <div class="bottoni2">
+                            <div class="bu2">
+                        <button class="button12"> <p class="p3">Learn more</p> </button>
+                        <button class="button22">Buy</button> 
+    
+                        
+    
+                        
+                        </div>
+                        </div>
+                        
+                           
+    
+                        </div>
+
+
+
+
+
+
+
+        </div>
+        
+        </div>
+        </div>
+        
+
+        </div>
+    </div>
+</body>
+</html>
