@@ -16,9 +16,10 @@
     .contenitore1{
         background-color: white;
         height:auto;
-        width: 8800px;
+        width:80%;
         display: flex;
-        justify-content: space-between;
+        gap: 5px;
+       
         border: solid, white, 5px;
         
         
@@ -26,7 +27,7 @@
 
     .contenitore2{border: solid,2px;
         height:2000px;
-        width: 3020px;
+        width: 100%;
        display: flex;
        justify-content: center;
        background-image: url(https://www.apple.com/v/ipad-pro/ar/images/overview/hero/hero_endframe__sg50vzdd6sqm_large_2x.jpg);
@@ -42,7 +43,7 @@
 
     .contenitore3{border: solid,2px;
         height: 2000px;
-        width: 3020px;
+        width: 100%;
         display: flex;
        justify-content: center;
        align-items: end;
@@ -250,6 +251,7 @@ font-size: 66px;
     align-items: center;
     display: flex;
     background-color: rgb(0, 0, 0);
+    justify-content: center;
     
 
 }
